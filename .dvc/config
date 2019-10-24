@@ -2,3 +2,5 @@
 url = /tmp/dvc-storage
 [core]
 remote = .
+['remote "Titanic-Studies"']
+url = https://github.com/lucasxms/Titanic-Studies.git
